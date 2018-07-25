@@ -38,7 +38,7 @@ h2 {
 }
 
 p {
-	color: #555;
+color: #555;
 font-size: 1em;
 margin: 0 0 20px 0;
 }
@@ -54,6 +54,6 @@ margin: 0 0 20px 0;
 
 .wrapper {
   width: 300px;
-  margin: 0 auto;
+  margin: 20px;
 	padding: 0 45px 20px;
 }
