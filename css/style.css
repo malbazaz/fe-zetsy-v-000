@@ -27,3 +27,28 @@ h1 {
 	font-family: 'Baskerville', serif;
 	font-size:5em;
 }
+
+h2 {
+	color: rgb(111,127,122);
+	font-size: 2em
+}
+
+p {
+	color: #555;
+font-size: 1em;
+margin: 0 0 20px 0;
+}
+
+.clearfix:after {
+  content: ".";
+  display: block;
+  visibility: hidden;
+  clear: both;
+  height: 0;
+  line-height: 0;
+}
+
+.wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
